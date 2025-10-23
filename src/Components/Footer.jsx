@@ -64,5 +64,5 @@ function Footer() {
   );
 }
 
-// Exporting the Footer component for use in other files
+// Exporting the Footer component for use in other filess
 export default Footer;
